@@ -1,0 +1,74 @@
+.divino-1 {
+    background-image: url(images.png);   
+    background-size: cover;
+    text-align: center;
+    padding: 250px;
+    border: 2px solid rgb(107, 101, 99); 
+}
+.anchor-a{
+    background-image: linear-gradient(tomato, red);
+    padding: 10px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    
+}
+.divino-2{
+    text-align: center;
+}
+
+.taka{
+    text-align: center;
+    font-size: larger;
+}
+#fullfil{
+    background-color: white;
+    margin: 10px;
+    padding: 20px 10px;
+    border: 2px solid rgb(215, 158, 158);
+    color:rgb(215, 158, 158) ;
+}
+.divino-4{
+    text-align: center;
+}
+.u-are{
+    color: darkgray;
+}
+.divino-5{
+    text-align: center;
+    
+}
+.display{
+    display: inline-block;
+    width: 30%;
+    padding-left: 30px;
+    margin: 5px;
+    background-color: azure;
+    padding-top: 40px;
+   
+
+}
+#famos{
+    background-color: bisque;
+}
+#gray{
+    background-color: grey;
+}
+.big-s{
+    font-size:60px;
+}
+footer{
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.divino-6{
+    text-align: center;
+}
+.last-f{
+    background-color: aqua;
+    text-align: center;
+    padding: 30px;
+}
